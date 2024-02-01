@@ -1,4 +1,14 @@
 # NoSQL
+# Resources
+**Read or watch**:
+- [NoSQL Databases Explained](https://riak.com/resources/nosql-databases/)
+- [What is NoSQL ?]()
+- [MongoDB with Python Crash Course - Tutorial for Beginners]()
+- [MongoDB Tutorial 2 : Insert, Update, Remove, Query]()
+- [Aggregation]()
+- [Introduction to MongoDB and Python]()
+- [mongo Shell Methods]()
+- [The mongo Shell]()
 
 # Learning Objectives
 - What NoSQL means
